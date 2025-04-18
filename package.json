@@ -56,5 +56,9 @@
   },
   "dependencies": {
     "chokidar": "^3.6.0"
-  }
+  }, 
+  "publisher": "mori",
+    "resources": [
+    "media/check.svg"
+  ]
 }
